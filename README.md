@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Prasant
+### Hi there, I'm Prasant 👋
 [![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
 
@@ -21,7 +21,7 @@
 </t>[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
 <br/>
-### Languages and Tools:
+### :pencil2: Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][repo]
 
