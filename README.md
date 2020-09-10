@@ -1,11 +1,11 @@
 <!--
 [<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/banner.gif" />][repo]
 
-  ### Hi there, I am Prasant!
+  ### Hi there, I am Prasant! 👋
 -->
 [<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/BANNER3_BLOCK.gif" />][repo]
 <br />
-👋
+
 <br />
 <br />
 [![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
