@@ -1,10 +1,11 @@
 ### Hi there 👋, I'm Prasant
 [![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2FcodeSTACKr)](https://prasantmahato.github.io/)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
 
 ## I'm a Student and a Developer
 
-- 🔭 I’m currently working on [Alogrithms and Data structures][repo]
+- 🔭 I’m currently working on [Alogrithms and Data structures][repo]!
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with web developers
 - 💬 Ask me about anything
