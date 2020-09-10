@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Prasant
-[![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2FcodeSTACKr)](https://prasantmahato.github.io/)
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
+[![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
 
 ## I'm a Student and a Developer
@@ -16,9 +15,9 @@
 
 ### 📫 How to reach me: 
 
-[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+</t>[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+</t>[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</t>[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
