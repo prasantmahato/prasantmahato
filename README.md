@@ -4,7 +4,7 @@
 
 ## I'm a Student and a Developer
 
-- 🔭 I’m currently working on [Alogrithms and Data structures][https://github.com/prasantmahato/DS-ALGO-]!.
+- 🔭 I’m currently working on [Alogrithms and Data structures][repo]
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to collaborate with web developers
 - 💬 Ask me about anything
@@ -15,9 +15,13 @@
 
 ### 📫 How to reach me: 
 
-[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][prasantmahato.github.io]!
-[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][https://twitter.com/prasant__mahato]!
-[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/prasant-mahato/]!
+[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 
+[repo]: https://github.com/prasantmahato/DS-ALGO-
+[website]: prasantmahato.github.io
+[linkedin]: https://www.linkedin.com/in/prasant-mahato/
+[twitter]: https://twitter.com/prasant__mahato
