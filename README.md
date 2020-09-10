@@ -11,7 +11,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
 [![Visits Badge](https://badges.pufler.dev/visits/prasantmahato/prasantmahato?style=for-the-badge)](https://github.com/prasantmahato/prasantmahato)
 
-## I'm a Student and a Developer
+## :mortar_board: I'm a Student and a Developer
 
 - 🔭 I’m currently working on developing skills in [Competative Coding][codechef]!
 - 🌱 I’m currently learning [Alogrithms and Data structures][DSrepo]!
