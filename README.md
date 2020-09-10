@@ -17,6 +17,7 @@
 
 </t>[<img align="left" alt="prasantmahato.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 </t>[<img align="left" alt="Prasant Mahato | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+</t>[<img align="left" alt="Prasant Mahato | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/Gmail.svg" />][gmail]
 </t>[<img align="left" alt="Prasant Mahato | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
@@ -25,3 +26,4 @@
 [website]: https://prasantmahato.github.io/
 [linkedin]: https://www.linkedin.com/in/prasant-mahato/
 [twitter]: https://twitter.com/prasant__mahato
+[gmail]: mailto:prasantmahato33@gmail.com
