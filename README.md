@@ -22,6 +22,6 @@
 
 
 [repo]: https://github.com/prasantmahato/DS-ALGO-
-[website]: prasantmahato.github.io
+[website]: https://prasantmahato.github.io/
 [linkedin]: https://www.linkedin.com/in/prasant-mahato/
 [twitter]: https://twitter.com/prasant__mahato
