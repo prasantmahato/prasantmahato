@@ -5,11 +5,11 @@
 
 ## I'm a Student and a Developer
 
-- 🔭 I’m currently working on [Alogrithms and Data structures][DSrepo]!
-- 🌱 I’m currently learning everything
-- 👯 I’m looking to collaborate with web developers
+- 🔭 I’m currently working on developing skills in [Competative Coding][codechef]!
+- 🌱 I’m currently learning [Alogrithms and Data structures][DSrepo]!
+- 👯 I’m looking to collaborate on backend development and projects. 
+- 👍 Looking for opportunities to join as an intern/full time in web development fields.
 - 💬 Ask me about anything
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to dive deep, even in water :wink: 
 
 <br/>
@@ -46,6 +46,7 @@
 [repo]: https://github.com/prasantmahato?tab=repositories
 [DSrepo]: https://github.com/prasantmahato/DS-ALGO-
 [website]: https://prasantmahato.github.io/
+[codechef]: https://www.codechef.com/users/prasant_33
 [linkedin]: https://www.linkedin.com/in/prasant-mahato/
 [twitter]: https://twitter.com/prasant__mahato
 [gmail]: mailto:prasantmahato33@gmail.com
