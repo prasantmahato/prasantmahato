@@ -1,4 +1,6 @@
+<!--
 [<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/banner.gif" />][repo]
+-->
 [<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/banner2.gif" />][repo]
 
 ### Hi there, I am Prasant! 👋
