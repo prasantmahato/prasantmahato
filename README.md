@@ -3,7 +3,7 @@
 
   ### Hi there, I am Prasant! 👋
 -->
-[<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/BANNER3_BLOCK.gif" />][repo]
+[<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/BANNER4.gif" />][repo]
 <br/>
 <br/>
 
