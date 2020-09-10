@@ -3,7 +3,7 @@
 
   ### Hi there, I am Prasant!
 -->
-[<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/BANNER3.gif" />][repo]
+[<img align="center" alt="Banner Image" height="35%" width="75%" src="https://github.com/prasantmahato/prasantmahato/blob/master/BANNER3_BLOCK.gif" />][repo]
 👋
 [![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
