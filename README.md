@@ -1,3 +1,4 @@
+![](https://github.com/prasantmahato/prasantmahato/blob/master/banner.gif)
 ### Hi there, I am Prasant! 👋
 [![Website](https://img.shields.io/website?label=prasantmahato.github.io&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://prasantmahato.github.io/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/prasant__mahato?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/prasant__mahato)
