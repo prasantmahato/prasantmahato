@@ -18,7 +18,7 @@
 - 👯 I’m looking to collaborate on backend development and projects. 
 - 👍 Looking for opportunities to join as an intern/full time in web development fields.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love to dive deep, even in water :wink: 
+- ⚡ Fun fact: I love diving deep, even in water :wink: 
 
 <br/>
 
