@@ -13,8 +13,8 @@
 
 ## :mortar_board: I'm a Student and a Developer
 
-- 🔭 I’m currently working on developing skills in [Full Stack Web Development][udemyRepo]! 
-- 🌱 I’m currently learning [Algorithms & Data Structures][DSrepo]! & [Competative Coding][codechef]!
+- 🔭 I’m currently working on developing skills in [Full Stack Web Development][udemyRepo] 
+- 🌱 I’m currently learning [Algorithms & Data Structures][DSrepo] & also focusing in [Competative Coding][codechef]
 - 👯 I’m looking to collaborate on backend development and projects. 
 - 👍 Looking for opportunities to join as an intern/full time in web development fields.
 - 💬 Ask me about anything
