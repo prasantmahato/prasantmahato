@@ -13,8 +13,8 @@
 
 ## :mortar_board: I'm a Student and a Developer
 
-- 🔭 I’m currently working on developing skills in [Competative Coding][codechef]!
-- 🌱 I’m currently learning [Alogrithms and Data structures][DSrepo]!
+- 🔭 I’m currently working on developing skills in [Full Stack Web Development][udemyRepo]! 
+- 🌱 I’m currently learning [Algorithms & Data Structures][DSrepo]! & [Competative Coding][codechef]!
 - 👯 I’m looking to collaborate on backend development and projects. 
 - 👍 Looking for opportunities to join as an intern/full time in web development fields.
 - 💬 Ask me about anything
@@ -55,6 +55,7 @@
 
 [repo]: https://github.com/prasantmahato?tab=repositories
 [DSrepo]: https://github.com/prasantmahato/DS-ALGO-
+[udemyRepo]: https://github.com/prasantmahato/udemyCourse
 [website]: https://prasantmahato.github.io/
 [codechef]: https://www.codechef.com/users/prasant_33
 [linkedin]: https://www.linkedin.com/in/prasant-mahato/
