@@ -13,11 +13,11 @@
 ## :mortar_board: I'm a Student and a Developer
 
 - 🔭 I’m currently working on developing skills in [Full Stack Web Development][udemyRepo] 
-- 🌱 I’m currently learning [Algorithms & Data Structures][DSrepo] & also focusing in [Competative Coding][codechef]
-- 👯 I’m looking to collaborate on backend development and projects. 
-- 👍 Looking for opportunities to join as an intern/full time in web development fields.
+- 🌱 I’m also learning [Algorithms & Data Structures][DSrepo] & also focusing in [Competative Coding][codechef]
+- 👯 Looking forward to collaborate on backend development and projects. 
+- 👍 Looking for opportunities to join as an intern/full time in Software Development Fields.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love diving deep, even in water :wink: 
+- ⚡ Fun fact: I love diving deep, in topics that intrest me :wink: 
 
 <br/>
 
