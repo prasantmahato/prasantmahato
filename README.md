@@ -17,7 +17,6 @@
 - 👯 Looking forward to collaborate on backend development and projects. 
 - 👍 Looking for opportunities to join as an intern/full time in Software Development Fields.
 - 💬 Ask me about anything
-- ⚡ Fun fact: I love diving deep, in topics that intrest me :wink: 
 
 <br/>
 
